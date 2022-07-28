@@ -279,6 +279,7 @@
 
 .wallet-text{
     margin-top: 200px;
+
 }
 .download-wallet__title{
     font-size: 3.5rem;
@@ -288,8 +289,7 @@
     font-size: 1.4rem;
 }
 .btn-download{
-    width: 354px;
-    height: 54px;
+    padding: 20px 40px;
     border-radius: 10px;
     border: none;
     background-color: #4368C7;

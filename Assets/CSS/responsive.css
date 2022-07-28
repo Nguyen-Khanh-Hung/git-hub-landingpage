@@ -126,8 +126,12 @@
         font-size: 3.8rem!important;
         line-height: 3.8rem!important;
     }
+    .iphone-13--mobile{
+        padding-left: -400px;
+       
+    }
     .iphone-13{
-        padding-right: 50px;
+        width: 380px!important;
     }
     .btn-contact{
         margin-top: 10px;
@@ -138,5 +142,11 @@
     }
     .font-small{
         font-size: 2rem!important;
+    }
+    .wallet-text{
+        text-align: center;
+    }
+    .header__sign-up {
+        margin-left: 0px!important;
     }
 }
