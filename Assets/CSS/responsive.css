@@ -2,9 +2,8 @@
     display: none;
 }
 .nav-btn{
-    margin-left: 10px;
-    height: 60px;
-    width: 60px;
+    margin: 0 10px;
+    
 }
 .btn-bars{
     font-size: 2rem;
@@ -104,7 +103,7 @@
         width: 280px;
     }
     .m-top{
-        margin-top: 40px;
+        margin-top: 10px;
     }
     .mobile-method{
         margin-right: -50px;
@@ -123,7 +122,21 @@
     .header__sign-in{
         display: none;
     }
-    .statitics__main{
-        padding: 55px 0;
+    .font-text{
+        font-size: 3.8rem!important;
+        line-height: 3.8rem!important;
+    }
+    .iphone-13{
+        padding-right: 50px;
+    }
+    .btn-contact{
+        margin-top: 10px;
+    }
+  
+    .create-btn{
+        padding: 17px 80px!important;
+    }
+    .font-small{
+        font-size: 2rem!important;
     }
 }

@@ -78,6 +78,7 @@
 .text-section__method{
     display: flex;
     list-style: none;
+    align-items: center;
     justify-content: center;
 }
 .method__item{
@@ -161,7 +162,7 @@
 }
 .instruction__title{
     padding-top: 110px;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 800;
 }
 .instruction__sub{
@@ -208,7 +209,7 @@
     line-height: 80px;
 }
 .start__icon-right{
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 .bitcon-icon{
     font-size: 8rem;
