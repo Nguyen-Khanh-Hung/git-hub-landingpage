@@ -254,7 +254,7 @@
   
 }
 .iphone-13{
-    width: 550px;
+    width: 500px;
 
     z-index: -6;
     height: 1000px;
@@ -263,7 +263,7 @@
 }
 
 .statitics__main{
-    padding: 150px 0;
+    padding: 50px 0;
     text-align: center;
 }
 .statitics__title{
